@@ -1,8 +1,8 @@
 # Product Name
 
 [![Platform](https://img.shields.io/cocoapods/p/TableViewTools.svg?style=flat)](http://cocoapods.org/pods/LFAlertController)
-[![Swift Version][swift-image]][swift-url]
-[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+[![Swift Version](https://img.shields.io/badge/swift-3.0-orange.svg)](https://swift.org/)
+[![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-blue.svg)](https://github.com/Carthage/Carthage)
 [![CocoaPods Compatible](https://img.shields.io/cocoapods/v/TableViewTools.svg)](https://img.shields.io/cocoapods/v/TableViewTools.svg)
 [![SPM Compatible](https://img.shields.io/badge/spm-compatible-brightgreen.svg?style=flat)](https://img.shields.io/badge/spm-compatible-brightgreen.svg?style=flat)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
@@ -26,6 +26,13 @@ One to two paragraph statement about your product and what it does.
 
 ## Installation
 
+#### Carthage
+Create a `Cartfile` that lists the framework and run `carthage update`. Follow the [instructions](https://github.com/Carthage/Carthage#adding-frameworks-to-an-application) to add the framework to your project.
+
+```
+github "rosberry/Product Name"
+```
+
 #### CocoaPods
 You can use [CocoaPods](http://cocoapods.org/) to install `Product Name` by adding it to your `Podfile`:
 
@@ -34,22 +41,19 @@ platform :ios, '8.0'
 use_frameworks!
 pod 'Product Name'
 ```
-
-#### Carthage
-Create a `Cartfile` that lists the framework and run `carthage update`. Follow the [instructions](https://github.com/Carthage/Carthage#adding-frameworks-to-an-application) to add the framework to your project.
-
-```
-github "rosberry/Product Name"
-```
 #### Manually
-1. Download and drop `Product Name.swift` in your project.  
-2. Congratulations!  
 
-## Usage example
+Drag `Sources` folder from [last release](https://github.com/rosberry/TableViewTools/releases) into your project.
+
+## Usage
 
 ```swift
 print("Hello, World!")
 ```
+
+## Authors
+
+* Artem Novichkov, artem.novichkov@rosberry.com
 
 ## About
 
@@ -60,6 +64,3 @@ Check out our [open source projects](https://github.com/rosberry) or give us a h
 ## License
 
 Product Name is available under the MIT license. See the LICENSE file for more info.
-
-[swift-image]:https://img.shields.io/badge/swift-3.0-orange.svg
-[swift-url]: https://swift.org/
