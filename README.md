@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/rosberry/Foundation/blob/master/Assets/rosberry-unicorn.png?raw=true" width="450" alt="Rosberry" />
+</p>
+
 # Foundation
 Foundation resources for Open Source repositories
 
@@ -18,3 +22,4 @@ Check out our [open source projects](https://github.com/rosberry), read [our blo
 ## License
 
 Foundation is available under the MIT license. See the LICENSE file for more info.
+
