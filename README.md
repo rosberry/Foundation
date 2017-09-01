@@ -5,6 +5,7 @@ Foundation resources for Open Source repositories
 
 - [Pull request template](PULL_REQUEST_TEMPLATE.md)
 - [README templates](README_TEMPLATES)
+- [Xcode header macros](IDETemplateMacros.plist)
 
 ## About
 
