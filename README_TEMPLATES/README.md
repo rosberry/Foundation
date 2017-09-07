@@ -57,7 +57,7 @@ print("Hello, World!")
 
 ## About
 
-<img src="https://github.com/rosberry/Foundation/blob/master/Assets/logo.png?raw=true" width="100" />
+<img src="https://github.com/rosberry/Foundation/blob/master/Assets/full_logo.png?raw=true" height="100" />
 
 This project is owned and maintained by [Rosberry](http://rosberry.com). We build mobile apps for users worldwide 🌏.
 
