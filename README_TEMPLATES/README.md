@@ -24,6 +24,12 @@ One to two paragraph statement about your product and what it does.
 - iOS 8.0+
 - Xcode 8.0+
 
+## Usage
+
+```swift
+print("Hello, World!")
+```
+
 ## Installation
 
 #### Carthage
@@ -41,15 +47,10 @@ platform :ios, '8.0'
 use_frameworks!
 pod 'Product Name'
 ```
+
 #### Manually
 
 Drag `Sources` folder from [last release](https://github.com/rosberry/TableViewTools/releases) into your project.
-
-## Usage
-
-```swift
-print("Hello, World!")
-```
 
 ## Authors
 
