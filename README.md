@@ -7,8 +7,8 @@ Foundation resources for Open Source repositories
 
 ## Resources
 
-- [Pull request template](PULL_REQUEST_TEMPLATE.md)
-- [README templates](README_TEMPLATES)
+- [iOS templates](IOS_TEMPLATES)
+- [Android templates](ANDROID_TEMPLATES)
 - [Xcode header macros](IDETemplateMacros.plist) (read more in [this article](https://oleb.net/blog/2017/07/xcode-9-text-macros/))
 
 ## About
