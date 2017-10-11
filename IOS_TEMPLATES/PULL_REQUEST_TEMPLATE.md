@@ -1,5 +1,3 @@
-## [WIP/READY] <!— Title for pull request -->
-
 ## Description
 <!--- Describe your changes in detail -->
 
@@ -23,4 +21,4 @@
 - [ ] Access control words were checked
 - [ ] Change log was changed
 - [ ] Checked that app correctly handles `background` and `active` states. 
-- [ ] The appropriate pull request label is selected
+- [ ] The appropriate pull request label is selected (Ready | WIP)
