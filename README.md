@@ -3,13 +3,14 @@
 </p>
 
 # Foundation
-Foundation resources for Open Source repositories
+Foundation resources for Open Source repositories.
 
 ## Resources
 
 - [iOS templates](IOS_TEMPLATES)
 - [Android templates](ANDROID_TEMPLATES)
 - [Xcode header macros](IDETemplateMacros.plist) (read more in [this article](https://oleb.net/blog/2017/07/xcode-9-text-macros/))
+- [Swiftlint configuration file](.swiftlint.yml) 
 
 ## About
 
