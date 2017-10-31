@@ -13,6 +13,7 @@
 ## Checklist
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 - [ ] Have merged develop branch
+- [ ] A develop branch is chosen as a merge branch.
 - [ ] Follows code style
 - [ ] Has no SwiftLint warnings
 - [ ] Checked UI layout on iPhone X and iPads
