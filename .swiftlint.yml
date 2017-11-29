@@ -21,6 +21,10 @@ identifier_name:
   excluded:
     - id
     - URL
+    
+variable_name:
+  excluded:
+    - id
 
 statement_position:
    statement_mode: uncuddled_else
